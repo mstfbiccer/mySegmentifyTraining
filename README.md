@@ -1,2 +1,4 @@
-# mySegmentifyTraining
-2014 Staj
+training
+========
+
+a repository for training projects of this summer
